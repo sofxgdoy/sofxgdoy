@@ -11,7 +11,7 @@ Hi I'm Sofía, a 23 years old -still very trainee- Unity Developer from Argentin
 
 <p>🌱I’m currently following the c# learning path from microsoft learn to refresh knowledge and solidify concepts.</p>
 
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/66fe006d366148ee28190627?variant=dark&roadmaps=backend" alt="roadmap.sh"/></a>
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/66fe006d366148ee28190627?variant=dark&roadmaps=aspnet-core%2Cbackend" alt="roadmap.sh"/></a>
 
 <!--
 **sofxgdoy/sofxgdoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
