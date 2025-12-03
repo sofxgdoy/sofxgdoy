@@ -1,6 +1,6 @@
 ## Hi there 👋 
 
-Hi I'm Sofía, a 23 years old -still very trainee- Unity Developer and pixel artist from Argentina!
+Hi I'm Sofía, a 24 years old -still very trainee- Unity Developer and pixel artist from Argentina!
 <p>2023 was a rough year to me due mourning, and I started 2024 feeling really down but rn (september) as late as it sounds, <br> I'm trying to reconnect with my early career that I loved so much before.</p>
 <p>I've worked on University projects as a programmer, 2D pixel art artist and game designer since 2021.<br> I've been part of teams developing minigames like: </p> 
 <li> ✨3D runner mobile game, with stacking mechanics and a small shop using user PlayerPrefs, as a programmer.</li>
