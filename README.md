@@ -9,10 +9,8 @@ Hi I'm Sofía, a 24 years old -still very trainee- Unity Developer and pixel art
 <p></p>
 <p>I have basic html, css and javascript knowledge, I can code c# on Unity, I know git, github, basic and intermediate mysql queries, photoshop and aseprite. </p>
 
-<p>🌱I’m currently following the c# learning path from microsoft learn to refresh knowledge and solidify concepts.</p>
 
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/66fe006d366148ee28190627?variant=dark&roadmaps=aspnet-core%2Cbackend" alt="roadmap.sh"/></a>
-ranking_index = (byte_count ^ size_weight) * (repo_count ^ count_weight)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sofxgdoy&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 
